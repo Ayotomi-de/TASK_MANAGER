@@ -41,7 +41,6 @@ class Stack:
             print(item)
         print("-----------------------------")
 
-
 if __name__ == "__main__":
     s = Stack()
     s.push(10)
