@@ -41,15 +41,15 @@ class Stack:
             print(item)
         print("-----------------------------")
 
-if __name__ == "__main__":
-    s = Stack()
-    s.push(10)
-    s.push(20)
-    s.push(30)
+# if __name__ == "__main__":
+#     s = Stack()
+#     s.push(10)
+#     s.push(20)
+#     s.push(30)
 
-    print("Top item:", s.peek())
-    print("Size:", s.size())
-    s.display()
+#     print("Top item:", s.peek())
+#     print("Size:", s.size())
+#     s.display()
 
-    s.pop()
-    s.display()
+#     s.pop()
+#     s.display()
