@@ -28,19 +28,19 @@ TASK_MANAGER/
 
 This application shows how Stack, Queue, and Linked List can work together inside a simple, real-life scenario:
 
-### ✔ Stack → Used for UNDO  
+### Stack → Used for UNDO  
 Example:  
 - “Added Task A”  
 - “Added Task B”  
 User can undo the last action.
 
-### ✔ Queue → Used for Processing Tasks  
+### Queue → Used for Processing Tasks  
 Example:  
 - Task 1: Clean room  
 - Task 2: Write code  
 User can process tasks in the order they were added.
 
-### ✔ Linked List → Used for Task History  
+### Linked List → Used for Task History  
 Every completed task is recorded in a linked list.
 
 ---
@@ -65,7 +65,7 @@ This allows users to enter their own values instead of fixed demo data.
 
 ---
 
-# ⚙️ How to Run the Program
+# How to Run the Program
 
 1. Open the folder in VS Code or any terminal
 2. Run:
@@ -83,7 +83,7 @@ Everything happens in the terminal using your 3 data structures.
 
 ---
 
-# 🧠 Software Construction Principles Applied
+# Software Construction Principles Applied
 
 ### **Modular Design**
 Each data structure lives in its own module (`stack.py`, `queue.py`, `linkedlist.py`).
