@@ -13,7 +13,6 @@ The application is **interactive**, meaning users can enter their own actions an
 
 ## Project Structure
 
-```
 
 TASK_MANAGER/
 │
@@ -86,19 +85,19 @@ Everything happens in the terminal using your 3 data structures.
 
 # 🧠 Software Construction Principles Applied
 
-### ✔ **Modular Design**
+### **Modular Design**
 Each data structure lives in its own module (`stack.py`, `queue.py`, `linkedlist.py`).
 
-### ✔ **High Cohesion**
+### **High Cohesion**
 Every class and method performs one clear function only.
 
-### ✔ **Low Coupling**
+### **Low Coupling**
 `main.py` interacts with the data structures through method calls only.
 
-### ✔ **Meaningful Naming**
+### **Meaningful Naming**
 Variables and functions have clear, descriptive names.
 
-### ✔ **Readable Code**
+### **Readable Code**
 - Proper indentation  
 - Docstrings  
 - Inline comments  
@@ -106,7 +105,7 @@ Variables and functions have clear, descriptive names.
 
 ---
 
-# Group Work Section (for your lecturer)
+# Group Work Section
 
 A total of 10 members contributed to the project with at least 3 members contributing in a module.
 
