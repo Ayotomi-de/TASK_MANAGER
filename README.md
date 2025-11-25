@@ -1,11 +1,11 @@
 # SIMPLE TASK MANAGER (Python Project)
 
 This project is a simple **Task Manager Application** built for the SEN
-306 -- Software Construction lab assessment.\
+306 -- Software Construction lab assessment.
 It demonstrates the real-life use of three major data structures:
 
--   **Stack** -- Handles undo actions\
--   **Queue** -- Handles task processing in order\
+-   **Stack** -- Handles undo actions
+-   **Queue** -- Handles task processing in order
 -   **Singly Linked List** -- Stores completed task history
 
 The application is **interactive**, allowing users to enter their own
@@ -33,18 +33,18 @@ can work together in a real-life scenario:
 
 ### 1. Stack -- Undo System
 
-Used to reverse the last action performed.\
-Example actions:\
-- Added Task A\
+Used to reverse the last action performed.
+Example actions:
+- Added Task A
 - Added Task B
 
 Users can undo the most recent action using the stack.
 
 ### 2. Queue -- Task Processing
 
-Tasks are processed in the exact order they were added.\
-Example queue:\
-- Task 1: Clean room\
+Tasks are processed in the exact order they were added.
+Example queue:
+- Task 1: Clean room
 - Task 2: Write code
 
 Users process tasks one at a time following the FIFO rule.
@@ -85,7 +85,7 @@ application dynamic and practical.
 
 3.  Follow the on-screen options to interact with the system.
 
-No frontend or GUI is required.\
+No frontend or GUI is required.
 The entire application runs in the terminal using the three implemented
 data structures.
 
@@ -112,9 +112,9 @@ All names clearly describe their purpose.
 
 ### Readable Code
 
--   Proper indentation\
--   Docstrings\
--   Inline comments\
+-   Proper indentation
+-   Docstrings
+-   Inline comments
 -   Organized logic
 
 ------------------------------------------------------------------------
@@ -130,10 +130,10 @@ members participating in each module.
 
 This project is:
 
--   Simple\
--   Modular\
--   Interactive\
--   Beginner-friendly\
+-   Simple
+-   Modular
+-   Interactive
+-   Beginner-friendly
 -   Fully aligned with SEN 306 requirements
 
 It demonstrates how Stack, Queue, and Linked List structures are used in
