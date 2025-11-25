@@ -121,7 +121,7 @@ All names clearly describe their purpose.
 
 # Group Work Section
 
-A total of 10 members contributed to this project, with at least 3
+A total of 13 members contributed to this project, with at least 3
 members participating in each module.
 
 ------------------------------------------------------------------------
