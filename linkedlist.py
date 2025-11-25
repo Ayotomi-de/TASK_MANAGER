@@ -81,3 +81,7 @@ class SinglyLinkedList:
     def __str__(self):
         """Return a readable string representation of the list."""
         return "LinkedList: " + " -> ".join(repr(x) for x in self.to_list()) + " -> None"
+
+    def display(self):
+        """Display the entire linked list as a python list."""
+        print(self.to_list())
